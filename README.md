@@ -61,5 +61,8 @@ of chain and non-chain..
 choices based on our analysis shown in 'street_establishment_count' dataset with average seating around 20s.
 This makes it better choice for a new business in terms of finance also.
 3.If interested in other types ,it is good to invest on Restaurants or Fast food around the same area with
-average seating being 30-40. 4.For whichever type we go with ,being not in a chain is the most ideal one , atleast during the early days.
+average seating being 30-40. 4.For whichever type we go with ,being not in a chain is the most ideal one , atleast during the early days.   
+  
+ # Presentation  
+ [Presentation](https://drive.google.com/file/d/1KFgT7SHOBRtLwfHTc4FDPtDDnVMw4c8a/view?usp=sharing)
   
