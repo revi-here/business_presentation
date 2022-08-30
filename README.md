@@ -9,6 +9,9 @@ are interested in the current market conditions for our small robot-run cafe in 
 ![Proportion of various establishments.](images/la_proportion.png 'Proportion of various establishments.')    
 <b>Proportion of chain vs non-chain establishments.
 ![Proportion of chain vs non-chain establishments.](images/la_chain_nonchain.png 'Proportion of chain vs non-chain establishments.')  
+<b>Proportion of chain establishments.
+![Proportion of chain establishments.](images/la_chain_prop.png 'Proportion of chain .')  
+ 
  <b>Proportion of chain establishments.
 ![Proportion of chain establishments.](images/la_chain_prop.png 'Proportion of chain .')  
   
