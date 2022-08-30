@@ -4,35 +4,35 @@ Prepare some market research with the open-source data on restaurants in LA .Use
 are interested in the current market conditions for our small robot-run cafe in LA.  
 
 # Data Exploration
-<b>Establishment with number of seats count.  
+### Establishment with number of seats count.  
 ![Establishment with number of seats count.](images/la_seat.png 'Establishment with number of seats count.')   
 
 <b>Various establishments belonging to a chain doesn't vary much from the general analysis done above.
 Both shows similarity in the number of seating available
  
-<b>Proportion of various establishments.  
+### Proportion of various establishments.  
 ![Proportion of various establishments.](images/la_proportion.png 'Proportion of various establishments.')    
 
 <b>The above pie chart shows that around 61.9% of the total establishments doesn't belong to any chain.  
 
-<b>Proportion of chain vs non-chain establishments.  
+### Proportion of chain vs non-chain establishments.  
 ![Proportion of chain vs non-chain establishments.](images/la_chain_nonchain.png 'Proportion of chain vs non-chain establishments.')  
 
 <b>With around 75% ,Restaurant forms the major type followed by Fast food and Bakery.
 
-<b>Proportion of chain establishments.  
+### Proportion of chain establishments.  
 ![Proportion of chain establishments.](images/la_chain_prop.png 'Proportion of chain .')  
 
 <b>Based on the above pie chart ,we see Restaurant forms the major establishment in chain followed by Fast food  
-and Bakery.
- 
-<b>Number of seats in  chain establishments.
+and Bakery.  
+  
+### Number of seats in  chain establishments.   
 ![Number of seats in  chain establishments.](images/seats_chain.png 'Number of seats in  chain establishments.')
 
 <b>The above plots show that , the number of seats is not directly dependent on chain size ..We see that
 higher the chain size , lower the seating and vice versa..
  
-<b>Establishment type vs Average number of seats.  
+### Establishment type vs Average number of seats.  
 ![Establishment type vs Average number of seats.](images/la_type_seats.png 'Establishment type vs Average number of seats.')   
  
  <b>The above graph clearly shows what we analysed in the previous section ..
@@ -40,11 +40,12 @@ Restaurant and Bar are in the market trend compared to other types where the oth
 doing fairly better though not as good as the top two .
  
  
-<b>Top 10 streets by number of restaurants.  
+### Top 10 streets by number of restaurants.  
 ![Top 10 streets by number of restaurants.](images/la_street_no_restaurant.png 'Top 10 streets by number of restaurants.')    
  
-<b>Top 10 streets by average number of seats.
-![Top 10 streets by number of restaurants.](images/la_seat_street.png 'Top 10 streets by number of restaurants.')   
+<b>Top 10 streets by average number of seats.  
+![Top 10 streets by number of restaurants.](images/la_seat_street.png 'Top 10 streets by number of restaurants.')  
+ 
 
  <b>Looking at the top 10 streets with more number of restaurants in terms of average number of seats ,we don't
 see much increase in seating though they are not either at very few seating category .the graph of Wilshire
